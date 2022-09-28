@@ -1,0 +1,7 @@
+{
+  "ip": "f2.apexnodes.xyz",
+  "port": 20664,
+  "loader": "Loader.swf",
+  "library": "https://github.com/yoloting1337/PTFP-Loaders/raw/main/library.swf",
+  "resources": "https://github.com/Undixd/PTFP/raw/main/resource/PTFP"
+}
